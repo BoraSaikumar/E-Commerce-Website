@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import NoPage from "./pages/noPage/NoPage";
-import HomePage from "./pages/home/Homepage.jsx";
+import HomePage from "./pages/home/Homepage";
 import ProductInfo from "./pages/productInfo/ProductInfo";
 import ScrollTop from "./components/scrollTop/ScrollTop";
 import CartPage from "./pages/cart/CartPage";
