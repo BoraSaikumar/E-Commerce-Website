@@ -1,3 +1,4 @@
+import React from 'react'
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import NoPage from "./pages/noPage/NoPage";
 import HomePage from "./pages/home/Homepage";
